@@ -43,10 +43,14 @@ List any prerequisites here, e.g.,
 
 
 # Contact
-You can reach me via email:
 
 <a href="mailto:saadyousuf45@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30">
-   saadyousuf45@gmail.com
 </a>
+saadyousuf45@gmail.com
+
+<a href="https://www.linkedin.com/in/saad-b-yousuf-11640293/">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
+</a>
+[LinkedIn Profile](https://www.linkedin.com/in/saad-b-yousuf-11640293/)
 
