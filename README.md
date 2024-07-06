@@ -34,7 +34,7 @@ Please feel free to raise any issue and to reach out.
 ### Before installing PIP package or running any of the Python Jupiter Notebook codes 
 ### Follow the following guideline to setup the environment to Run my code.
 
-### Step 1 
+#### Step 1 
 conda create --name openmmlab python=3.8 -y Create conda env
 
 conda activate openmmlab Activate conda env
