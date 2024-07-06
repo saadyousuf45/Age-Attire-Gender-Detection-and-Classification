@@ -37,7 +37,7 @@ Ubuntu or any other Linux-based system.
 
 #### Before installing PIP package or running any of the Python Jupiter Notebook codes 
 #### Follow the following guideline to setup the environment to run my code.
-
+This was taken from the following [link](https://github.com/open-mmlab/mmdetection/issues/10400)
 
 #### Step 1 
 conda create --name openmmlab python=3.8 -y Create conda env
