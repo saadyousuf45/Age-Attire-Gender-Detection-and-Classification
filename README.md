@@ -13,7 +13,6 @@ Please feel free to raise any issue and to reach out.
 
 ## Table of Contents
 
--   [Age-Gender-Attire in the Wild.](#project-title)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Installation](#installation)
@@ -30,13 +29,42 @@ Please feel free to raise any issue and to reach out.
 
 ## Installation
 
+
 ### Prerequisites
+### Before installing PIP package or running any of the Python Jupiter Notebook codes 
+### Follow the following guideline to setup the environment to Run my code.
 
-List any prerequisites here, e.g.,
-- [Node.js](https://nodejs.org/) v10+
-- [Python](https://www.python.org/) 3.6+
+### Step 1 
+conda create --name openmmlab python=3.8 -y Create conda env
 
-### Steps
+conda activate openmmlab Activate conda env
+
+conda install pytorch torchvision -c pytorch
+
+pip install -U openmim
+
+mim install mmengine
+
+mim install "mmcv<=1.8.0" Install MMCV Older versions
+
+git clone https://github.com/open-mmlab/mmdetection.git Cloning repo
+
+cd mmdetection
+
+git checkout 2.x Switching branches
+
+pip install -v -e .
+
+pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 -f https://download.pytorch.org/whl/torch_stable.html
+
+pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu111/torch1.9.0/index.html
+
+pip install future tensorboard
+
+pip install setuptools==59.5.0
+
+
+
 
 
 
