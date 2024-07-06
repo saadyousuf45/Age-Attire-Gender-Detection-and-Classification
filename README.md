@@ -15,6 +15,7 @@ Please feel free to raise any issue and to reach out.
 
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
+  - [Prerequisites](#Prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -25,7 +26,7 @@ Please feel free to raise any issue and to reach out.
 
 - Feature 1: Implementation of trained algorithms on 10 different object detectors.
 - Feature 2: Dataset of images, with faces, identified with age and gender also accompanying all attire labels.
-- Feature 3: SubDataset 
+- Feature 3: SubDataset with faces cropped and treated with GenAI. (GFP-Gan)
 
 
 ## Prerequisites
