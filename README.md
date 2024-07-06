@@ -67,6 +67,13 @@ pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu111/torch1.9
 pip install future tensorboard
 #### Step 14 
 pip install setuptools==59.5.0
+#### Step 15 
+pip install notebook
+
+Use cython==0.29.33 if your mmdet version requires mmpycocotools [[#10730.]](https://github.com/open-mmlab/mmdetection/issues/10730#issuecomment-1666391860)
+
+I have tested it on mmdet=2.10 with pytorch=1.13 cuda=11.7.
+
 
 ## Installation
 # Pip python package based on the code.
