@@ -27,12 +27,17 @@ Please feel free to raise any issue and to reach out.
 - Feature 2: Brief description of feature 2.
 - Feature 3: Brief description of feature 3.
 
-## Installation
 
+## Prerequisites
+### Hardware:
+GPU-enabled machine with at least 8Gb Graphics Card and 16 Gb of RAM.
 
-### Prerequisites
-### Before installing PIP package or running any of the Python Jupiter Notebook codes 
-### Follow the following guideline to setup the environment to run my code.
+### Software
+Ubuntu or any other Linux-based system. 
+
+#### Before installing PIP package or running any of the Python Jupiter Notebook codes 
+#### Follow the following guideline to setup the environment to run my code.
+
 
 #### Step 1 
 conda create --name openmmlab python=3.8 -y Create conda env
@@ -63,7 +68,8 @@ pip install future tensorboard
 #### Step 14 
 pip install setuptools==59.5.0
 
-
+## Installation
+# Pip python package based on the code.
 
 
 
