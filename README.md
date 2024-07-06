@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# Age-Gender-Attire in the Wild.
+# [Project Title] Age-Gender-Attire in the Wild.
 <img src="https://user-images.githubusercontent.com/33414652/48990447-91441200-f182-11e8-8ad7-d00d1e1f9147.jpg" alt="Description" width="70%">
 </div>
 
@@ -14,7 +14,7 @@ Please feel free to raise any issue and to reach out.
 ## Table of Contents
 
 - [Project Title](#Age-Attire-Gender and attire in the Wild)
-  - [Table of Contents](#table-of-contents)
+  - [Table of Contents](#tabl)
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
