@@ -23,9 +23,9 @@ Please feel free to raise any issue and to reach out.
 
 ## Features
 
-- Feature 1: Brief description of feature 1.
-- Feature 2: Brief description of feature 2.
-- Feature 3: Brief description of feature 3.
+- Feature 1: Implementation of trained algorithms on 10 different object detectors.
+- Feature 2: Dataset of images, with faces, identified with age and gender also accompanying all attire labels.
+- Feature 3: SubDataset 
 
 
 ## Prerequisites
@@ -76,7 +76,8 @@ I have tested it on mmdet=2.10 with pytorch=1.13 cuda=11.7.
 
 
 ## Installation
-# Pip python package based on the code.
+##### Pip python package based on the code.
+
 
 
 
