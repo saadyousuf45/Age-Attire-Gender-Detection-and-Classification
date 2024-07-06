@@ -7,6 +7,34 @@
 
 ## This Repo contains all the files necessary for the development and deployment of this Project.
 
+This repository contains a link to a unique Dataset created to Simultaneously Detect Age, Gender and Attire in the wild.
+It also contains many code-snippets I have written over the years to help with data-wrangling and combing. 
+Please feel free to raise any issue and to reach out. 
 
+## Table of Contents
 
-## will be updated soon
+- [Project Title](#project-title)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+
+## Features
+
+- Feature 1: Brief description of feature 1.
+- Feature 2: Brief description of feature 2.
+- Feature 3: Brief description of feature 3.
+
+## Installation
+
+### Prerequisites
+
+List any prerequisites here, e.g.,
+- [Node.js](https://nodejs.org/) v10+
+- [Python](https://www.python.org/) 3.6+
+
+### Steps
+
