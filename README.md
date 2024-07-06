@@ -27,6 +27,9 @@ Please feel free to raise any issue and to reach out.
 - Feature 1: Implementation of trained algorithms on 10 different object detectors.
 - Feature 2: Dataset of images, with faces, identified with age and gender also accompanying all attire labels.
 - Feature 3: SubDataset with faces cropped and treated with GenAI. (GFP-Gan)
+- Feature 4: Deployable PIP package. (in the works)
+- Feature 5: Deployable on mobile devices. (in the works)
+- Feature 6: Deployable on edge devices. (in the works)
 
 
 ## Prerequisites
