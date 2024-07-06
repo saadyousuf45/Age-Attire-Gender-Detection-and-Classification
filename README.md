@@ -48,3 +48,4 @@ You can reach me via email:
 <a href="mailto:saadyousuf45@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30">
 </a>
+saadyousuf45@gmail.com
