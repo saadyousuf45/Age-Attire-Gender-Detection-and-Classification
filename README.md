@@ -1,7 +1,6 @@
 
 <div align="center">
-(#project-title)  
-# Age-Gender-Attire in the Wild.
+# Age-Gender-Attire in the Wild. (#project-title) 
 <img src="https://user-images.githubusercontent.com/33414652/48990447-91441200-f182-11e8-8ad7-d00d1e1f9147.jpg" alt="Description" width="70%">
 </div>
 
@@ -38,3 +37,42 @@ List any prerequisites here, e.g.,
 
 ### Steps
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact
