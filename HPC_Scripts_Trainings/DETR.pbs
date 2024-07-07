@@ -1,0 +1,42 @@
+
+#The code below creates the setup to load and run
+
+#!/bin/bash
+
+# default project name
+#PBS -P Age_saad_matloob
+
+# default short name you give to the job
+#PBS -N DETR_training
+
+# what you require for the project
+#PBS -l select=1:ncpus=2:ngpus=2:mpiprocs=1:mem=20GB 
+
+# if unsure of run time overestimate
+#PBS -l walltime=100:00:00
+
+#if you want to send yourself an email when the job starts ends or whatever
+#PBS -M saadyousuf45@gmail.com
+
+# optional command for aborts (a), begins (b) and ends (e)
+#PBS -m abe
+
+#Project Size
+#PBS -q defaultQ
+
+# activate environmnet 
+source ~/mmdet_env/bin/activate
+
+# change directory 
+cd /project/Age_saad_matloob/HPC_codes/
+
+
+# first load modules
+
+module load singularity cuda/10.2.89
+
+export SINGULARITY_TMPDIR=`pwd`
+export SINGULARITY_CACHEDIR=`pwd`
+
+# run python script
+singularity run --nv mmcv_artemisGPU.img python DETR_HPC.py
