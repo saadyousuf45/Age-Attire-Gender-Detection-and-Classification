@@ -99,5 +99,5 @@ I have tested it on mmdet=2.10 with pytorch=1.13 cuda=11.7.
 <a href="https://www.linkedin.com/in/saad-b-yousuf/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
-  _https://www.linkedin.com/in/saad-b-yousuf-11640293/_
+  _https://www.linkedin.com/in/saad-b-yousuf/_
 </p>
