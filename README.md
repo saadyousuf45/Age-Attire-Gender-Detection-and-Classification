@@ -96,7 +96,7 @@ I have tested it on mmdet=2.10 with pytorch=1.13 cuda=11.7.
   <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30">
 </a>
    _saadyousuf45@gmail.com_
-<a href="https://www.linkedin.com/in/saad-b-yousuf-11640293/">
+<a href="https://www.linkedin.com/in/saad-b-yousuf/">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
   _https://www.linkedin.com/in/saad-b-yousuf-11640293/_
