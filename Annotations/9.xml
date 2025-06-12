@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>9.jpg</filename>
+	<path>/home/saadi/ssd_keras-master/data test/JPEGImages/9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2389</width>
+		<height>1570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bracelet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1750</xmin>
+			<ymin>1477</ymin>
+			<xmax>1825</xmax>
+			<ymax>1570</ymax>
+		</bndbox>
+	</object>
+<object><name>25</name><bndbox><xmin>1079</xmin><ymin>237</ymin><xmax>1643</xmax><ymax>957</ymax></bndbox></object><object><name>Female</name><bndbox><xmin>1079</xmin><ymin>237</ymin><xmax>1643</xmax><ymax>957</ymax></bndbox></object></annotation>

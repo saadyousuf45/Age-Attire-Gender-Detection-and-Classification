@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>10.jpg</filename>
+	<path>/home/saadi/ssd_keras-master/data test/JPEGImages/10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2361</width>
+		<height>1569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hair Band</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1052</xmin>
+			<ymin>320</ymin>
+			<xmax>1602</xmax>
+			<ymax>801</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Coat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>810</xmin>
+			<ymin>1006</ymin>
+			<xmax>1974</xmax>
+			<ymax>1569</ymax>
+		</bndbox>
+	</object>
+<object><name>28</name><bndbox><xmin>1005</xmin><ymin>458</ymin><xmax>1503</xmax><ymax>1098</ymax></bndbox></object><object><name>Female</name><bndbox><xmin>1005</xmin><ymin>458</ymin><xmax>1503</xmax><ymax>1098</ymax></bndbox></object></annotation>

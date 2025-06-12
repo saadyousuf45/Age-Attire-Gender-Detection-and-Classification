@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>107.jpg</filename>
+	<path>/home/saadi/ssd_keras-master/data test/JPEGImages/107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>485</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>113</ymin>
+			<xmax>238</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+<object><name>41</name><bndbox><xmin>97</xmin><ymin>108</ymin><xmax>172</xmax><ymax>174</ymax></bndbox></object><object><name>Male</name><bndbox><xmin>97</xmin><ymin>108</ymin><xmax>172</xmax><ymax>174</ymax></bndbox></object></annotation>
